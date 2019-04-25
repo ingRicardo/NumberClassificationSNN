@@ -1,4 +1,4 @@
-# NumberClassificationSNN
+# NumberClassification Spiking-Neural-Network
 
 ##################### README ###################################################
 # This file executes the classification algorithm over input testing images.
